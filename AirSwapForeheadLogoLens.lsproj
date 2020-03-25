@@ -1,0 +1,857 @@
+{
+    "lens_id": "",
+    "document_id": "JleN5CFNh8U3AGvMHFto",
+    "original_document_id": "JleN5CFNh8U3AGvMHFto",
+    "version": "23",
+    "lastChanged": "1585149588796",
+    "preview": "icon.png",
+    "videoPreview": "preview.mp4",
+    "videoPreviewUpdateTime": "",
+    "isReadOnly": "false",
+    "isAutoSaved": "false",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "2",
+            "minor": "3",
+            "patch": "1",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "2",
+            "minor": "3",
+            "patch": "1",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "AST"
+                    ],
+                    [
+                        "AST_AirSwap_black"
+                    ],
+                    [
+                        "AST_AirSwap_blue"
+                    ],
+                    [
+                        "AST_AirSwap_blue_white"
+                    ],
+                    [
+                        "AST_diamond_black"
+                    ],
+                    [
+                        "AST_diamond_blue"
+                    ],
+                    [
+                        "AST_diamond_blue_white"
+                    ],
+                    [
+                        "AirSwap_black"
+                    ],
+                    [
+                        "AirSwap_blue"
+                    ],
+                    [
+                        "AirSwap_blue_white"
+                    ],
+                    [
+                        "echopark_diff"
+                    ],
+                    [
+                        "echopark_spec"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                ""
+            ]
+        },
+        "MetaInfoUIComponent": {
+            "video_preview_path": "preview.mp4",
+            "hints": "",
+            "lens": "Untitled",
+            "applicability": "3",
+            "lens_descriptors": ""
+        },
+        "PreviewUiComponent": {
+            "preview_descriptor": {
+                "is_capture": "0",
+                "camera_type": "2"
+            },
+            "show_snap_ui": "true",
+            "show_sponsored_ui": "false",
+            "preview_images_project_config": {
+                "back_preview_id": "bundle:PreviewPresets\/Images\/Beach.jpg",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:PreviewPresets\/Images\/Person 1.jpg",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:PreviewPresets\/Images\/Pavement\/Pavement.jpg",
+                "spectacles_preview_is_favorite": "false"
+            },
+            "preview_videos_project_config": {
+                "back_preview_id": "bundle:PreviewPresets\/Videos\/Beach.webm",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:PreviewPresets\/Videos\/Idle Person 1.webm",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:PreviewPresets\/Videos\/Climbing\/Climbing.webm",
+                "spectacles_preview_is_favorite": "false"
+            }
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                [
+                    "1585147849847349:9866",
+                    "1585149045585585:14825"
+                ]
+            ]
+        },
+        "UiComponent": {
+            "active_graph_material": "-1:-1",
+            "active_graph_pass": "-1"
+        }
+    },
+    "model": {
+        "IResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "8",
+                    "uid": "1517446348230286:84828",
+                    "name": "\/Resources\/Resource8.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "9",
+                    "uid": "1517446348234137:84840",
+                    "name": "\/Resources\/Resource9.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "10",
+                    "uid": "1585147846102129:9805",
+                    "name": "Files\/File3.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "14",
+                    "uid": "1585148302762640:10507",
+                    "name": "Files\/File8.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "15",
+                    "uid": "1585148305033529:10516",
+                    "name": "Files\/File10.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "16",
+                    "uid": "1585148307862300:10616",
+                    "name": "Files\/File12.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "20",
+                    "uid": "1585148324676208:11182",
+                    "name": "Files\/File20.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "21",
+                    "uid": "1585148327039580:11191",
+                    "name": "Files\/File22.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "22",
+                    "uid": "1585148330449375:11321",
+                    "name": "Files\/File24.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "26",
+                    "uid": "1585148343078121:12037",
+                    "name": "Files\/File32.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "27",
+                    "uid": "1585148344972562:12046",
+                    "name": "Files\/File34.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "28",
+                    "uid": "1585148347143698:12206",
+                    "name": "Files\/File36.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                }
+            ],
+            "MaterialUpdateManager": {
+                "unrecognizedMaterials": ""
+            }
+        },
+        "InspectorComponent": {
+            "Component": {
+                "EyeColorVisual": {
+                    "uidData": "",
+                    "generalData": ""
+                },
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                },
+                "ScreenTransform": {
+                    "uidData": "",
+                    "generalData": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1517446348227994:84813",
+                "1": "1517446348228144:84822",
+                "2": "1528843813151434:5126",
+                "3": "1585147849844759:9865",
+                "4": "1585147849847349:9866",
+                "5": "1585147849848918:9867"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "2",
+            "showOrthographicLayer": "false",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1",
+                    "colorCode": "20"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576",
+                    "colorCode": "21"
+                }
+            ]
+        },
+        "IFileManager": {
+            "pathes": [
+                {
+                    "k": "1",
+                    "v": "Files\/File1.png"
+                },
+                {
+                    "k": "2",
+                    "v": "Files\/File2.png"
+                },
+                {
+                    "k": "3",
+                    "v": "Files\/File3.png"
+                },
+                {
+                    "k": "4",
+                    "v": "Files\/File4.png"
+                },
+                {
+                    "k": "8",
+                    "v": "Files\/File8.png"
+                },
+                {
+                    "k": "9",
+                    "v": "Files\/File9.png"
+                },
+                {
+                    "k": "10",
+                    "v": "Files\/File10.png"
+                },
+                {
+                    "k": "11",
+                    "v": "Files\/File11.png"
+                },
+                {
+                    "k": "12",
+                    "v": "Files\/File12.png"
+                },
+                {
+                    "k": "13",
+                    "v": "Files\/File13.png"
+                },
+                {
+                    "k": "20",
+                    "v": "Files\/File20.png"
+                },
+                {
+                    "k": "21",
+                    "v": "Files\/File21.png"
+                },
+                {
+                    "k": "22",
+                    "v": "Files\/File22.png"
+                },
+                {
+                    "k": "23",
+                    "v": "Files\/File23.png"
+                },
+                {
+                    "k": "24",
+                    "v": "Files\/File24.png"
+                },
+                {
+                    "k": "25",
+                    "v": "Files\/File25.png"
+                },
+                {
+                    "k": "32",
+                    "v": "Files\/File32.png"
+                },
+                {
+                    "k": "33",
+                    "v": "Files\/File33.png"
+                },
+                {
+                    "k": "34",
+                    "v": "Files\/File34.png"
+                },
+                {
+                    "k": "35",
+                    "v": "Files\/File35.png"
+                },
+                {
+                    "k": "36",
+                    "v": "Files\/File36.png"
+                },
+                {
+                    "k": "37",
+                    "v": "Files\/File37.png"
+                }
+            ]
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn",
+            "sceneType": "binaryScene"
+        }
+    },
+    "controller": {
+        "IResourceController": {
+            "public": {
+                "pathes": [
+                    {
+                        "k": "1",
+                        "v": "echopark_diff.png"
+                    },
+                    {
+                        "k": "2",
+                        "v": "echopark_spec.png"
+                    },
+                    {
+                        "k": "45",
+                        "v": "AST.png"
+                    },
+                    {
+                        "k": "49",
+                        "v": "AST_diamond_black.png"
+                    },
+                    {
+                        "k": "50",
+                        "v": "AirSwap_black.png"
+                    },
+                    {
+                        "k": "51",
+                        "v": "AST_AirSwap_black.png"
+                    },
+                    {
+                        "k": "55",
+                        "v": "AST_diamond_blue.png"
+                    },
+                    {
+                        "k": "56",
+                        "v": "AirSwap_blue.png"
+                    },
+                    {
+                        "k": "57",
+                        "v": "AST_AirSwap_blue.png"
+                    },
+                    {
+                        "k": "61",
+                        "v": "AST_diamond_blue_white.png"
+                    },
+                    {
+                        "k": "62",
+                        "v": "AirSwap_blue_white.png"
+                    },
+                    {
+                        "k": "63",
+                        "v": "AST_AirSwap_blue_white.png"
+                    }
+                ],
+                "hashes": [
+                    {
+                        "k": "1",
+                        "v": "671afbc1d6810060ccbaac866a91cfa1"
+                    },
+                    {
+                        "k": "2",
+                        "v": "8e599835d0d45c5879eafb1f474469cd"
+                    },
+                    {
+                        "k": "45",
+                        "v": "26d4320603c61ead332e0967d1d03999"
+                    },
+                    {
+                        "k": "46",
+                        "v": "e9146296920152a7f4fa563cbfc59b43"
+                    },
+                    {
+                        "k": "47",
+                        "v": "d703309b9a8cbfe0e36a61400c51ca00"
+                    },
+                    {
+                        "k": "48",
+                        "v": "03596e91b6983a268efd31251274940f"
+                    },
+                    {
+                        "k": "49",
+                        "v": "5e244f82d270d824d05d977e90982c08"
+                    },
+                    {
+                        "k": "50",
+                        "v": "2a652edacfb9f29ac7ab25e4e34425ae"
+                    },
+                    {
+                        "k": "51",
+                        "v": "eecd65dc161a04773941d4378ef070b4"
+                    },
+                    {
+                        "k": "52",
+                        "v": "62f8dd05a108c88f87eeffcd64d71a08"
+                    },
+                    {
+                        "k": "53",
+                        "v": "eedd166ba13ca51a03f3e9835dce86f7"
+                    },
+                    {
+                        "k": "54",
+                        "v": "840762b5fbde6d6aa65f64278192a964"
+                    },
+                    {
+                        "k": "55",
+                        "v": "ceb62ec84679deaeee8694ff38fffd2b"
+                    },
+                    {
+                        "k": "56",
+                        "v": "15fd7d43d246f0df0be387e5e219f49a"
+                    },
+                    {
+                        "k": "57",
+                        "v": "71d754f39796a6a25f30d8afbb86e120"
+                    },
+                    {
+                        "k": "58",
+                        "v": "4be8f4fac5aa9e3da93256d050557889"
+                    },
+                    {
+                        "k": "59",
+                        "v": "eef051e71c87105258e88db991800e59"
+                    },
+                    {
+                        "k": "60",
+                        "v": "3b70a7bc988e4a04e88e81007ea8133b"
+                    },
+                    {
+                        "k": "61",
+                        "v": "28364f773e65f3f02257049c47c8f06b"
+                    },
+                    {
+                        "k": "62",
+                        "v": "340e2a2863b1a2148a0a6be3430db566"
+                    },
+                    {
+                        "k": "63",
+                        "v": "86a915d018d8ad4c362bbd96c9106ce4"
+                    }
+                ],
+                "publicState": {
+                    "tree": {
+                        "isFolder": "true",
+                        "lastModified": "2020-03-25T11:02:10",
+                        "name": "Public",
+                        "hash": "75a56066ee4738ec738e9064e01b63ff",
+                        "children": [
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2018-09-11T16:06:49",
+                                "name": "AST_AirSwap_black.png",
+                                "hash": "eecd65dc161a04773941d4378ef070b4",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2018-09-11T16:08:25",
+                                "name": "AirSwap_blue_white.png",
+                                "hash": "340e2a2863b1a2148a0a6be3430db566",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2019-12-13T20:21:52",
+                                "name": "echopark_diff.png",
+                                "hash": "671afbc1d6810060ccbaac866a91cfa1",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2018-09-11T16:08:25",
+                                "name": "AST_diamond_blue_white.png",
+                                "hash": "28364f773e65f3f02257049c47c8f06b",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2018-09-11T15:53:39",
+                                "name": "AirSwap_blue.png",
+                                "hash": "15fd7d43d246f0df0be387e5e219f49a",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2019-12-13T20:21:52",
+                                "name": "echopark_spec.png",
+                                "hash": "8e599835d0d45c5879eafb1f474469cd",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2018-09-11T15:53:39",
+                                "name": "AST_AirSwap_blue.png",
+                                "hash": "71d754f39796a6a25f30d8afbb86e120",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2018-09-11T15:53:39",
+                                "name": "AST_diamond_blue.png",
+                                "hash": "ceb62ec84679deaeee8694ff38fffd2b",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2018-09-11T16:08:25",
+                                "name": "AST_AirSwap_blue_white.png",
+                                "hash": "86a915d018d8ad4c362bbd96c9106ce4",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2018-09-11T16:06:49",
+                                "name": "AirSwap_black.png",
+                                "hash": "2a652edacfb9f29ac7ab25e4e34425ae",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-03-24T19:44:27",
+                                "name": "AST.png",
+                                "hash": "26d4320603c61ead332e0967d1d03999",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2018-09-11T16:06:49",
+                                "name": "AST_diamond_black.png",
+                                "hash": "5e244f82d270d824d05d977e90982c08",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2019-12-13T20:21:47",
+                                "name": "folder.lock",
+                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                "children": ""
+                            }
+                        ]
+                    }
+                },
+                "complexResources": ""
+            },
+            "tree": {
+                "name": "",
+                "type": "0",
+                "subtype": "-1",
+                "resourceId": "-1",
+                "dependency": "0",
+                "uid": "-1:-1",
+                "fileId": "18446744073709551615",
+                "originalId": "18446744073709551615",
+                "publicId": "18446744073709551615",
+                "source": "",
+                "additional": "",
+                "resources": [
+                    {
+                        "name": "Render Target",
+                        "type": "1",
+                        "subtype": "1",
+                        "resourceId": "1",
+                        "dependency": "0",
+                        "uid": "1:1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Device Camera Texture",
+                        "type": "1",
+                        "subtype": "3",
+                        "resourceId": "2",
+                        "dependency": "0",
+                        "uid": "2:2",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "echopark_diff",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "8",
+                        "dependency": "0",
+                        "uid": "1517446348230286:84828",
+                        "fileId": "1",
+                        "originalId": "18446744073709551615",
+                        "publicId": "1",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "echopark_spec",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "9",
+                        "dependency": "0",
+                        "uid": "1517446348234137:84840",
+                        "fileId": "2",
+                        "originalId": "18446744073709551615",
+                        "publicId": "2",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "AST",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "10",
+                        "dependency": "0",
+                        "uid": "1585147846102129:9805",
+                        "fileId": "3",
+                        "originalId": "4",
+                        "publicId": "45",
+                        "source": "\/Users\/ejwessel\/Desktop\/AST.png",
+                        "additional": ""
+                    },
+                    {
+                        "name": "AST_diamond_black",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "14",
+                        "dependency": "0",
+                        "uid": "1585148302762640:10507",
+                        "fileId": "8",
+                        "originalId": "9",
+                        "publicId": "49",
+                        "source": "\/Users\/ejwessel\/Downloads\/AirSwap Logos\/Black_Mark_Light_Background\/Transperency\/logoMark.png",
+                        "additional": ""
+                    },
+                    {
+                        "name": "AirSwap_black",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "15",
+                        "dependency": "0",
+                        "uid": "1585148305033529:10516",
+                        "fileId": "10",
+                        "originalId": "11",
+                        "publicId": "50",
+                        "source": "\/Users\/ejwessel\/Downloads\/AirSwap Logos\/Black_Mark_Light_Background\/Transperency\/logoType.png",
+                        "additional": ""
+                    },
+                    {
+                        "name": "AST_AirSwap_black",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "16",
+                        "dependency": "0",
+                        "uid": "1585148307862300:10616",
+                        "fileId": "12",
+                        "originalId": "13",
+                        "publicId": "51",
+                        "source": "\/Users\/ejwessel\/Downloads\/AirSwap Logos\/Black_Mark_Light_Background\/Transperency\/logoTypeAndMark.png",
+                        "additional": ""
+                    },
+                    {
+                        "name": "AST_diamond_blue",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "20",
+                        "dependency": "0",
+                        "uid": "1585148324676208:11182",
+                        "fileId": "20",
+                        "originalId": "21",
+                        "publicId": "55",
+                        "source": "\/Users\/ejwessel\/Downloads\/AirSwap Logos\/Blue_Mark_Light_Background\/Transperent\/LogoMark.png",
+                        "additional": ""
+                    },
+                    {
+                        "name": "AirSwap_blue",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "21",
+                        "dependency": "0",
+                        "uid": "1585148327039580:11191",
+                        "fileId": "22",
+                        "originalId": "23",
+                        "publicId": "56",
+                        "source": "\/Users\/ejwessel\/Downloads\/AirSwap Logos\/Blue_Mark_Light_Background\/Transperent\/LogoType.png",
+                        "additional": ""
+                    },
+                    {
+                        "name": "AST_AirSwap_blue",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "22",
+                        "dependency": "0",
+                        "uid": "1585148330449375:11321",
+                        "fileId": "24",
+                        "originalId": "25",
+                        "publicId": "57",
+                        "source": "\/Users\/ejwessel\/Downloads\/AirSwap Logos\/Blue_Mark_Light_Background\/Transperent\/LogoTypeAndMark.png",
+                        "additional": ""
+                    },
+                    {
+                        "name": "AST_diamond_blue_white",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "26",
+                        "dependency": "0",
+                        "uid": "1585148343078121:12037",
+                        "fileId": "32",
+                        "originalId": "33",
+                        "publicId": "61",
+                        "source": "\/Users\/ejwessel\/Downloads\/AirSwap Logos\/White_Mark_Blue_Background\/PNG\/logoMark.png",
+                        "additional": ""
+                    },
+                    {
+                        "name": "AirSwap_blue_white",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "27",
+                        "dependency": "0",
+                        "uid": "1585148344972562:12046",
+                        "fileId": "34",
+                        "originalId": "35",
+                        "publicId": "62",
+                        "source": "\/Users\/ejwessel\/Downloads\/AirSwap Logos\/White_Mark_Blue_Background\/PNG\/logoType.png",
+                        "additional": ""
+                    },
+                    {
+                        "name": "AST_AirSwap_blue_white",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "28",
+                        "dependency": "0",
+                        "uid": "1585148347143698:12206",
+                        "fileId": "36",
+                        "originalId": "37",
+                        "publicId": "63",
+                        "source": "\/Users\/ejwessel\/Downloads\/AirSwap Logos\/White_Mark_Blue_Background\/PNG\/logoTypeAndMark.png",
+                        "additional": ""
+                    }
+                ]
+            }
+        },
+        "InspectorController": {
+            "selection": {
+                "objects": [
+                    "1585147849847349:9866"
+                ]
+            }
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": "",
+            "17": "",
+            "18": "",
+            "19": "",
+            "20": "",
+            "22": "",
+            "23": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": ""
+            },
+            "importInfo": ""
+        }
+    }
+}
